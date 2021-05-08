@@ -23,6 +23,8 @@
 
 		<mapping class="com.projects.example.hibernate.base.model.Employee" />
 		<mapping class="com.projects.example.hibernate.base.model.Department" />
+		<mapping class="com.projects.example.hibernate.base.model.User" />
+		<mapping class="com.projects.example.hibernate.base.model.Role" />
 
 		<!-- <mapping resource="com/mkyong/user/DBUser.hbm.xml"></mapping> -->
 	</session-factory>

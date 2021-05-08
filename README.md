@@ -5,5 +5,3 @@ This project is an example using hibernate working as an archetype for future pr
 * Setup mysql
 * Undestand mapping
 
-# Contact info
-Chris Grivas <chgrivas7@gmail.com>
